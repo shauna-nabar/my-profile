@@ -1,0 +1,32 @@
+body {
+  background-color: #fcea72;
+  text-align: center;
+  font-family: "Helvetica",sans-serif;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+}
+p{font-family: "Times New Roman";
+}
+h1{font-family: "Sofia",sans-serif;
+color: green;
+}
+h2{color: blue
+}
+a{font-family: "Comic Sans",sans-serif;
+}
+.city {
+  background-color: tomato;
+  color: white;
+  border: 5px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+.interests {
+  background-color: tomato;
+  color: white;
+  border: 5px solid black;
+  margin: 20px;
+  padding: 10px;
+}
